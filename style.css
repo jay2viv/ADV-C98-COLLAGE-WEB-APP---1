@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(rgb(0, 132, 255), rgb(155, 0, 155));
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1
+{
+    font-family: cursive;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+#camera
+{
+    border: 5px;
+    width: 500px;
+    height: 400px;
+}
+
+
+
+.img
+{
+    border-radius: 5px ;
+    box-shadow: currentColor;
+}
